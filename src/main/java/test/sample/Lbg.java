@@ -9,7 +9,8 @@ public class Lbg {
   b=20;
   c=a+b;
   System.out.println("This result =" +c);
-  
+  System.out.println("This result =" +c);
+  System.out.println("This result =" +c);
 	}
 
 }
